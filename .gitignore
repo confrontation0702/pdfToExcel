@@ -1,0 +1,7 @@
+/resource/*
+/out/*
+/__pycache__
+/.idea
+/build
+demo.*
+*.pdf
